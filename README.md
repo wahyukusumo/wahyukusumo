@@ -1,6 +1,6 @@
 <!--- ![Banner](/images/profile_banner.webp) --->
 <p align="center">
-  <img src="/images/profile_banner.webp" />
+  <img src="/images/profile_banner_small.webp" />
 </p>
 
 ## 🔥 My Github Stats

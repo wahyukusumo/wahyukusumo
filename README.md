@@ -3,7 +3,7 @@
   <img src="/images/profile_banner_small.webp" />
 </p>
 
-## 🔥 My Github Stats
+<!-- ## 🔥 My Github Stats -->
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <!-- <p align="center">
@@ -12,7 +12,7 @@
   </a>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="DenverCoder1's stats" src="https://github-readme-stats.vercel.app/api?username=wahyukusumo&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117"/>
   </a>
@@ -20,12 +20,12 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="DenverCoder1's stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyukusumo&layout=compact&theme=radical&langs_count=10&hide_border=true&bg_color=0D1117"/>
   </a>
-</p>
+</p> -->
 
-## ⭐ My Favorites
+<!-- ## ⭐ My Favorites -->
 
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/wahyukusumo/book-publisher-template">
     <img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wahyukusumo&repo=book-publisher-template&theme=radical&hide_border=true&bg_color=0D1117" alt="milites">
   </a>
@@ -36,7 +36,7 @@
     <img width="240" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wahyukusumo&repo=kano-lyrics&theme=radical&hide_border=true&bg_color=0D1117" alt="kano-lyrics">
   </a>
 </p>
-
+ -->
 
 <!---
 - 👋 Hi, I’m @wahyukusumo
